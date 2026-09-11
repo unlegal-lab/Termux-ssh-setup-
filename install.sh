@@ -1,0 +1,1 @@
+curl -I https://raw.githubusercontent.com/unlegal-lab/termux-ssh-setup/main/install.sh
